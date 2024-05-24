@@ -1,0 +1,266 @@
+.contato {
+  background-color: #181818;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.contato .div {
+  background-color: #181818;
+  overflow: hidden;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+}
+
+.contato .footer {
+  position: absolute;
+  width: 1442px;
+  height: 50px;
+  top: 974px;
+  left: 0;
+  background-color: transparent;
+}
+
+.contato .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 50px;
+  background-color: #00e7c8;
+}
+
+.contato .text-wrapper {
+  position: absolute;
+  top: 14px;
+  left: 503px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #181818;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contato .section-corpo {
+  position: absolute;
+  width: 802px;
+  height: 764px;
+  top: 175px;
+  left: 320px;
+}
+
+.contato .carto-de-contato {
+  position: absolute;
+  width: 806px;
+  height: 700px;
+  top: 64px;
+  left: 0;
+}
+
+.contato .overlap {
+  position: relative;
+  width: 800px;
+  height: 700px;
+  background-color: #40404066;
+  border-radius: 10px;
+}
+
+.contato .boto {
+  position: absolute;
+  width: 502px;
+  height: 75px;
+  top: 595px;
+  left: 152px;
+}
+
+.contato .div-wrapper {
+  position: relative;
+  width: 500px;
+  height: 75px;
+  background-color: #00e7c8;
+  border-radius: 10px;
+}
+
+.contato .text-wrapper-2 {
+  position: absolute;
+  top: 16px;
+  left: 93px;
+  font-family: "Inter-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contato .rectangle {
+  height: 220px;
+  top: 329px;
+  left: 52px;
+  position: absolute;
+  width: 700px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.contato .text-wrapper-3 {
+  position: absolute;
+  top: 285px;
+  left: 52px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contato .rectangle-2 {
+  height: 50px;
+  top: 204px;
+  left: 50px;
+  position: absolute;
+  width: 700px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.contato .text-wrapper-4 {
+  top: 160px;
+  left: 50px;
+  position: absolute;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contato .rectangle-3 {
+  height: 50px;
+  top: 80px;
+  left: 50px;
+  position: absolute;
+  width: 700px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.contato .text-wrapper-5 {
+  top: 35px;
+  left: 52px;
+  position: absolute;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contato .p {
+  position: absolute;
+  top: 0;
+  left: 107px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.contato .header {
+  position: absolute;
+  width: 1450px;
+  height: 150px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.contato .overlap-2 {
+  position: relative;
+  width: 1440px;
+  height: 150px;
+  background-color: #00e7c8;
+}
+
+.contato .logo {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 25px;
+  left: 106px;
+  object-fit: cover;
+}
+
+.contato .text-wrapper-6 {
+  position: absolute;
+  top: 64px;
+  left: 828px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contato .text-wrapper-7 {
+  position: absolute;
+  top: 64px;
+  left: 692px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contato .text-wrapper-8 {
+  position: absolute;
+  top: 64px;
+  left: 554px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contato .text-wrapper-9 {
+  position: absolute;
+  top: 64px;
+  left: 425px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.contato .text-wrapper-10 {
+  position: absolute;
+  top: 64px;
+  left: 1006px;
+  font-family: "Roboto-ExtraBold", Helvetica;
+  font-weight: 800;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
